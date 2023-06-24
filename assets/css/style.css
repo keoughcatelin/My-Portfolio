@@ -1,0 +1,44 @@
+header{
+    text-align: left;
+}
+
+ul{
+    list-style-type: none;
+    text-align: right;
+}
+
+li{
+    display: inline;
+    margin-left: 25px;
+}
+
+p2{
+    margin-left: 45px;
+}
+
+h2{
+
+}
+
+.container {
+display: flex;
+align-items: center;
+}
+
+
+
+#about-me{ 
+
+}
+
+#contact{
+
+}
+
+#resume{
+
+}
+
+#work{
+
+}
