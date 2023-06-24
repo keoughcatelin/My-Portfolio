@@ -2,6 +2,17 @@ header{
     text-align: left;
 }
 
+body {
+    background-color: slategray;
+}
+
+.banner{
+    background-image: url("../images/background-yes.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
 ul{
     list-style-type: none;
     text-align: right;
