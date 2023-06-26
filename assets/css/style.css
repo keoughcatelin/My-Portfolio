@@ -44,7 +44,7 @@ h2 {
     height: 200px;
 }
 
-.image-container img {
+.image-container2 img {
     position: absolute;
     top: -300px;
     left: 1435px;
@@ -64,17 +64,17 @@ h2 {
 }
 
 #about-me {
-    
+
 }
 
 #contact {
-    /* Add your styles for #contact here */
+/* Add your styles for #contact here */
 }
 
 #resume {
-    /* Add your styles for #resume here */
+/* Add your styles for #resume here */
 }
 
 #work {
-    /* Add your styles for #work here */
+/* Add your styles for #work here */
 }
