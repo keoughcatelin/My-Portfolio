@@ -1,7 +1,14 @@
 # My-Portfolio
 # Catelin Keough Portfolio
 
-This is my personal portfolio website showcasing my work and providing information about me. It includes sections such as About Me, Work, Contact Me, and Resume.
+This is my personal portfolio website showcasing my work and providing information about me. It includes sections such as About Me, Work, Contact 
+Me, and Resume.
+
+## Link to depolyed application:
+https://keoughcatelin.github.io/My-Portfolio/
+
+## Screenshot of Project 
+! [screenshot](screencapture-keoughcatelin-github-io-My-Portfolio-2023-06-28-10_12_26.png)
 
 ## Table of Contents
 - [About Me](#about-me)
